@@ -1,0 +1,28 @@
+div{
+    height: 300px;
+    width: 350px;
+border: 2px solid black;
+}
+.box1
+{
+    border: 1px solid black;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    /* margin: auto; */
+    margin-top: 40%;
+
+    margin-left: 10%;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD3OmwXK7xXXVWJZiocRJOasPkHLK27kGGOQ&s);
+    background-size:cover ;
+    ;
+    /* text-align: right; */
+    
+
+}
+td{
+    padding-left: 240px;
+    font-size: 20px;
+    font-weight: bold;
+    
+}

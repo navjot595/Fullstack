@@ -1,0 +1,35 @@
+*
+b{
+    background-color: blueviolet;
+}
+div{
+
+
+
+    border: 1px solid black;
+    height: 200%;
+    width: 50%;
+
+}
+.para
+{
+    background-color: lightblue;
+    text-align: center;
+}
+#btn
+{
+    background-color: antiquewhite;
+    color: red;
+    padding: 10px;
+    cursor: pointer;
+    width: 50px;
+
+
+}
+body
+{
+    background-color:cyan;
+}
+div h1{
+    background-color: yellow;
+}
