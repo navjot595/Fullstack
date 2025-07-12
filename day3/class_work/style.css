@@ -1,28 +1,63 @@
-div{
-    height: 300px;
-    width: 350px;
-border: 2px solid black;
+/* .box{
+
+
+    height: 200px;
+    width: 20%;
+    border: 2px solid black;
+
 }
-.box1
+       
+
+.one
 {
+    height: 100px;
+    width: 100px;
     border: 1px solid black;
-    height: 150px;
-    width: 150px;
     border-radius: 50%;
-    /* margin: auto; */
-    margin-top: 40%;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJgH63m4YXKPBWj2yf1sZJ7ijCWsEhiMKGjA&s);
+    background-size: cover;
+    top: 50%;
+    transform: translateY(2%);
 
-    margin-left: 10%;
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD3OmwXK7xXXVWJZiocRJOasPkHLK27kGGOQ&s);
-    background-size:cover ;
-    ;
-    /* text-align: right; */
+    
+} 
+    
+   div h4 {
+    margin-left: 40%;
+    
+    
+   }
+   
+    table {
+        transform: translateX(300%);
+        
+        
+    }
+
+table td{
+
+} */
+    
+table
+{
+    border: 3px solid black;
+    width: 300px;
+    height: 200px;
+    background-color: lightyellow;
+}
+
+div{
+ height: 100px;
+ width: 100px;
+ border: 1px solid black;
+ border-radius: 50%;
+ background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3gbGoDPVXbzCB8f0aWljjdT9yNsmitxXtTQ&s);
+ background-size: cover;
+}
+
+
+
+
+
     
 
-}
-td{
-    padding-left: 240px;
-    font-size: 20px;
-    font-weight: bold;
-    
-}
